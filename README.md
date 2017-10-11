@@ -78,6 +78,8 @@
 #### Clase 4
 
    - Física en Unity
+     - Cuerpos Rígidos
+     - Materiales Físicos
 
    - Scripting
       - Eventos
