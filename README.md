@@ -78,10 +78,15 @@
 #### Clase 4
 
    - Física en Unity
+     - Cuerpos Rígidos
+     - Materiales Físicos
+     - Aplicando Fuerzas a Objetos
+     - Disparando Objetos utilizando Fuerzas y la rotación de la Cámara
 
    - Scripting
       - Eventos
-      - Creación dinámica de objetos
+      - Utilizando boton de mouse
+      - Creación dinámica de objetos
 
    - Colisionadores
       - Gravedad
